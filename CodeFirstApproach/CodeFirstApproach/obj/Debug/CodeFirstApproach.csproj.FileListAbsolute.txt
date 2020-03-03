@@ -1,0 +1,13 @@
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe.config
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.pdb
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.dll
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.xml
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csprojAssemblyReference.cache
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CopyComplete
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.exe
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.pdb
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.Migrations.CreatePost.resources
+D:\DotNetProject\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.GenerateResource.cache

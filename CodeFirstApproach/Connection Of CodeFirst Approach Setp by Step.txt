@@ -1,0 +1,9 @@
+1)PM> install-package EntityFramework
+
+2)Set Up Connection String In App.config
+
+3)PM> enable-migrations
+
+4)PM> add-migration 'CreatePost'
+
+5)update-database

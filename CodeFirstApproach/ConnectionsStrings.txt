@@ -1,0 +1,3 @@
+ <connectionStrings>
+      <add name="ListOfDB" connectionString="data source=DESKTOP-IAOQFSJ; initial catalog=InformationDatabase; integrated security=SSPI" providerName="System.Data.SqlClient"/>
+    </connectionStrings>

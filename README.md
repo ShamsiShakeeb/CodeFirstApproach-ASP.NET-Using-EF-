@@ -9,6 +9,6 @@
 
 4)Microsoft.EntityFrameworkCore.SqlServer
 
-5)icrosoft.EntityFrameworkCore.Tools
+5)Microsoft.EntityFrameworkCore.Tools
 
 6)Microsoft.VisualStudio.Web.CodeGeneration.Design
